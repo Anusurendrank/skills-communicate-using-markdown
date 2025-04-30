@@ -9,9 +9,9 @@
 ![Image of Aiml](https://nietm.in/wp-content/uploads/2022/12/AI2.jpg)
 
 
- javascript
-var A = "AI, ML";
-
+``` javascript
+var A = "AIML";
+```
 
 
 - [x] Add self intro
